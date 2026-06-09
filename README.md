@@ -6,3 +6,4 @@ git log - История коммитов
 git branch - Список веток
 git branch <name> - Создать новую ветку от текущей
 git checkout <name> - Переключиться на ветку
+git merge <name> - Слияние веток

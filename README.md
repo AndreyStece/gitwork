@@ -9,3 +9,4 @@ git checkout <name> - Переключиться на ветку
 git merge <name> - Слияние веток
 git push origin <name branch> - Отправка изменений на Github
 git remote -v - Просмотр значения _origin_
+git pull origin master - Скачать изменения с Github

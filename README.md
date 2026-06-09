@@ -6,3 +6,5 @@ git log - История коммитов
 git branch - Список веток
 git branch <name> - Создать новую ветку от текущей
 git checkout <name> - Переключиться на ветку
+git push origin <name branch> - Отправка изменений на Github
+git remote -v - Просмотр значения _origin_

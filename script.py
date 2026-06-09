@@ -1,17 +1,3 @@
-
-
-
-print("Hello Git")
-print("Hello Git")
-print("Hello Git")
-print("Hello Git")
-print("Hello Git")
-print("Hello Git")
-print("Hello Git")
-print("Hello Git")
-print("Hello Git")
-print("Hello Git")
-print("Hello Git")
-print("Hello Git")
-print("Branch dev")
-print("Branch master")
+if __name__ == 'main':
+    for _ in range(10):
+        print("Hello Git")
